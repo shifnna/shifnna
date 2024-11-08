@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shifna here
+- 👋 Hello,@shifna here
 - 👀 I’m interested in problem solving..
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
