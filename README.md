@@ -1,7 +1,7 @@
 Hi there,'m shifna 👋
-## 🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
+# 🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
 
-### 🔧 Skills: 
+ 🔧 **Skills**: 
 - **Languages**: JavaScript, Node.js, HTML, CSS, MongoDB
 - **Frameworks**: Express.js, React
 - **Tools & Technologies**: Git, GitHub,Nginx, PostgreSQL, RESTful APIs, OAuth,Passport.js
