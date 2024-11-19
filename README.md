@@ -1,5 +1,5 @@
 Hi there,'m shifna 👋
-🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
+## 🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
 
 ### 🔧 Skills: 
 - **Languages**: JavaScript, Node.js, HTML, CSS, MongoDB
@@ -10,7 +10,7 @@ Hi there,'m shifna 👋
 - **Soft Skills**: Problem-Solving, Communication, Adaptability, Teamwork.
 
 
-### 🌱 Currently Learning**:
+🌱 **Currently Learning**:
 - Advanced algorithms and data structures
 - Diving deeply into SQL and React.
 
