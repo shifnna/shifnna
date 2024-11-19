@@ -1,4 +1,4 @@
-Hi there,'m shifna 👋
+- Hi there,'m shifna 👋
 # 🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
 
  🔧 **Skills**: 
