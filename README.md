@@ -1,4 +1,4 @@
-- 👋 Hello,i'm @shifna here!
+- Hello 👋,shifna here!
 - 👀 I love problem solving..
 - 🌱 I’m currently learning Data Structure & Algorithm
-- 📫 Reach me 
+- 📫 Reach me at https://www.linkedin.com/in/shifna-majeed/
