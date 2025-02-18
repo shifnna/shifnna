@@ -2,7 +2,7 @@
 # 🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
 
  🔧 **Skills**: 
-- **Languages**: JavaScript, Node.js, HTML, CSS, MongoDB
+- **Languages**: JavaScript, TypeScript, Node.js, HTML, CSS, MongoDB
 - **Frameworks**: Express.js, React
 - **Tools & Technologies**: Git, GitHub,Nginx, PostgreSQL, RESTful APIs, OAuth,Passport.js
 - **UI/UX**: Responsive Design, Figma, Bootstrap, HTML, CSS, Material UI
