@@ -37,7 +37,7 @@
 From starting as a self-taught web developer to working on full-stack applications, I’ve learned that consistency, dedication, and a passion for problem-solving are the keys to success. Whether it’s building dynamic user interfaces or designing powerful back-end systems, I’m always excited to tackle new challenges. I strive to apply the knowledge I gain through real-world projects, open-source contributions, and collaboration with other passionate developers.
 
 - 📫 Reach me at: <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/shifna-majeed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shifna4678@gmail.com" target="_blank">
