@@ -2,12 +2,12 @@
 # 🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
 
  🔧 **Skills**: 
-- **Languages**: JavaScript, TypeScript, Node.js, HTML, CSS
+- **Languages**: JavaScript, TypeScript
 - **Frameworks**: Express.js, React
 - **Tools & Technologies**: Git, GitHub,Nginx, PostgreSQL, RESTful APIs, OAuth,Passport.js
 - **UI/UX**: Responsive Design, Figma, Bootstrap, HTML, CSS, Material UI
 - **Cloud & Hosting**: AWS
-- **Batabases**:MongoDB, PostgreSQL 
+- **Databases**:MongoDB, PostgreSQL 
 - **Soft Skills**: Problem-Solving, Communication, Adaptability, Teamwork.
 
 
@@ -36,12 +36,12 @@
 ### 📈 My Journey
 From starting as a self-taught web developer to working on full-stack applications, I’ve learned that consistency, dedication, and a passion for problem-solving are the keys to success. Whether it’s building dynamic user interfaces or designing powerful back-end systems, I’m always excited to tackle new challenges. I strive to apply the knowledge I gain through real-world projects, open-source contributions, and collaboration with other passionate developers.
 
-- 📫 Reach me at https://www.linkedin.com/in/shifna-majeed/
 - 📫 Reach me at: <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shifna4678@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
