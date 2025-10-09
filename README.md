@@ -1,5 +1,5 @@
 - Hi there, i'm shifna 👋
-# 🚀 Self-Learner | Web Developer | Problem Solver | Passionate about Technology
+# 🚀 Self-Learner | Software Developer | Passionate about Technology
 
  🔧 **Skills**: 
 - **Languages**: JavaScript, TypeScript
