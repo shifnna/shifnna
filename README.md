@@ -1,7 +1,7 @@
 ## Hi there, i'm shifna 👋
-### 🚀 Self-Learner | Software Developer | Passionate about Technology
+###  Self-Learner | Software Developer | Passionate about Technology
 
- 🔧 **Skills**: 
+  **Skills**: 
 - **Languages**: JavaScript, TypeScript
 - **Frameworks**: Express.js, React
 - **Tools & Technologies**: Git, GitHub,Nginx, PostgreSQL, RESTful APIs, OAuth,Passport.js
