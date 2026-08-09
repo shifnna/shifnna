@@ -11,7 +11,7 @@
 - **Soft Skills**: Problem-Solving, Communication, Adaptability, Teamwork.
 
 
-🌱 **Currently Learning**:
+ **Currently Learning**:
 - Advanced algorithms and data structures
 - Building scalable applications with Typescript and React.
 
