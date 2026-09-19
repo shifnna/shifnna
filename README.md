@@ -7,7 +7,7 @@
 - **Tools & Technologies**: Git, GitHub,Nginx, PostgreSQL, RESTful APIs, OAuth,Passport.js
 - **UI/UX**: Responsive Design, Figma, Bootstrap, HTML, CSS, Material UI
 - **Cloud & Hosting**: AWS
-- **Databases**:MongoDB, PostgreSQL 
+- **Databases**:MongoDB, PostgreSQL, Firebase 
 - **Soft Skills**: Problem-Solving, Communication, Adaptability, Teamwork.
 
 
@@ -22,6 +22,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
